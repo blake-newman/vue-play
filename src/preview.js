@@ -61,7 +61,7 @@ function purify(spots) {
       component: {
         example: spot.component.example,
         template: spot.component.template,
-        play: spot.component.play
+        readme: spot.component.readme
       }
     }))
   }
